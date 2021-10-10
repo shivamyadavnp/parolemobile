@@ -1,0 +1,1 @@
+# Parole Mobile: Strong Password Generator
